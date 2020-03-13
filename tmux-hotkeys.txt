@@ -1,0 +1,25 @@
+TMUX HOT KEYS
+
+LEADING KEY [DEFAULT] --> CTRL+B  #from here on referred as LK
+
+TO CREATE A NEW WINDOW --> LK+C
+TO CHECK ALL CURRENT WINDOWS --> LK+W
+TO SWITCH --> LK+WINDOW#
+TO SWITCH TO NEXT WINDOW --> LK+n
+TO SWITCH TO PREV WINDOW --> LK+p
+TO NAME WINDOW --> LK+,
+TO CREATE A NEW PANE --> LK+%
+TO CREATE A NEW HPANE --> LK+"
+TO CYCLIC SWITCH --> LK+o
+TO GET LABEL FOR PANES --> LK+q
+TO SWITCH TO LABELLED PANE --> LK+q+PANE#
+TO ZOOM INTO PANE --> LK+z
+TO ENABLE SCROLL MODE --> LK+[
+TO GET CLOCK --> LK+t
+TO GET CHEATSHEET --> LK+?
+
+FOR NEW TMUX SESSION --> tmux new -s "SessionName"
+TO KILL SESSION --> tmux kill-session -t "SessionName"
+		--> tmux kill-session "Session#"
+TO ATTACH SESSION --> tmux attach "Session#"
+
