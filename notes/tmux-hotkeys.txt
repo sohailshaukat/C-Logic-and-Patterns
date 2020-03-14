@@ -22,4 +22,5 @@ FOR NEW TMUX SESSION --> tmux new -s "SessionName"
 TO KILL SESSION --> tmux kill-session -t "SessionName"
 		--> tmux kill-session "Session#"
 TO ATTACH SESSION --> tmux attach "Session#"
-
+		  --> tmux attach -t "SessionName"
+TO DETACH SESSION --> LK+d
