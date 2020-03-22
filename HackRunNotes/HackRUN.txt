@@ -1,0 +1,74 @@
+0.
+Alice -> password
+1. 
+Hey Alex,
+I haven't heard from you in a while. Are you free to get together tonight?   Miss you,
+Alice
+2.
+Hi Cathy!
+Thanks again so much for helping me get this job! I'm not sure what I'm supposed to be doing yet, but I'm sure I'll figure it out. What's up with that guy Brian? He's really psycho about baseball. Like it's the secret to the universe. He's a bit jumpy, too... Anyway thanks again and I owe you a drink!
+Alice 
+3.
+Brian -> baseball
+4.
+Alice, Welcome to Paradise!
+It's paradise because you get to work with me. I'm here to give you a hand wherever you want it. And don't listen to any of the rumors about RUN being a shady company. None of the crap being said about us working with drug dealers is true. I hope you like the place and drop me a line anytime if you're in the mood for some juicy gossip.
+Drug dealers <-- ?
+5.
+Hey Cat, who's the new babe? She doesn't seem too bright but her body makes up for it. The Brian could really use some of that! Oh, I checked out that website you sent me OverniteDynamite.com. Not sure why you like them so much, but you must have your reasons... Anyway, you better find a way to hook me up with Alice!   
+OverniteDynamite.com <-- Cathy Password From SONG
+6.
+Cathy -> Love
+7.
+David -> baseball
+8.
+ReUsingNature.com <-- ?
+WORDS
+9.
+Elise is standing by to hear from you. And to receive priority job placement service, just give her the secret code phrase "hireme". That's sure to get your foot in the door!
+10.
+uplink passcode = 8847384621 
+PEOPLE------------------------------------------
+Alice -> password -> likes alex
+Alex Thomason
+Brian -> baseball -> likes alice
+Cathy -> Love
+David -> baseball -> likes brian
+Irene -> reps -> ismith
+Elise -> hireme -> likes larry
+Frank -> DOB as password -> November 11, 1971 -> 11111971
+Gayle -> reps -> gford -> may
+Hank -> reps -> GoToNote.com -> run4it -> CEO -> Hammburger
+Larry -> admin -> password = sex
+Julian Russo -> reps (Italy) -> jrusso -> may
+Kate Piet -> reps -> kpiet -> may 
+Marie -> gotonote.com (born2run) -> AlienConspiracyTheories.com -> 71.4462.232
+Nigel -> Govt -> address = 71.4462.232 ->
+Olive -> Govt -> address = 22.3201.556
+Peter -> Govt -> address = 93.482.3388
+Sasha -> Govt -> address = 16.2222.900 (Tech Support Rep)
+Wanda -> Loves binary	
+Database -> Govt -> address = 94.200.3331 (query)
+Recogenal --????
+
+Query -> Region ?? 75.2288.112 -->Virtupharmbotic model no. XJ5a12 
+Technical Support Rep -> 16.2222.900
+
+HR SYSTEM -> Elise
+Sales Rep -> Gayle Ford -> USERNAME = LASTNAME -> PASSWORD = may
+#PEOPLE-----------------------------------------
+RUN -> ReUsing Nature
+OverniteDynamite.com
+ReUsingNature.com
+GoToNote.com
+AlienConspiracyTheories.com
+PRODUCTS----------------------------------------
+pheisphospertates
+chlorodisphasea
+Altruiton Flavored Toothpaste
+Biogenaxic Stool Softening Tablets
+Cryotanthylamide Liver Pills
+...
+Zyganode Hydrotopical Suntan Lotion
+#PRODUCTS---------------------------------------
+
