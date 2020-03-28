@@ -1,0 +1,21 @@
+REGION
+RID	NAME
+12	Sevn Angles, Los Angeles 
+52   Brandford Tooling, Austin 
+114   Industrial xBots, Miami 
+227   Bio Fend Corp., Chicago 
+321   World Liquidz, Vancouver 
+593   LXII Industries, Rome 
+666   <RUN@75.2288.112>			-> Govt ROBOT --> XJ5a12 Model NO.
+668   Particle Genomics, Berlin 
+670   Privata Holdings, Paris 
+684   Expon Endeavours, Lima 
+714   System Holistics, Moscow 
+730   Biodine Bonds, Cairo 
+750   Advanced Systems, Sydney 
+771   Compusys Dynamics, London 
+773   Quintonic Corp., Madrid 
+840   Corp. XAAA, Hong Kong 
+882   Biolog Tanks, Amsterdam 
+933   Interlogic Amps, Denmark 
+964   Virtucond Agencies, Bonn       
