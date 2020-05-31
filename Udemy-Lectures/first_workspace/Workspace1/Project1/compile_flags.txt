@@ -1,0 +1,10 @@
+-IE:\Main\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++
+-IE:\Main\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\x86_64-w64-mingw32
+-IE:\Main\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\backward
+-IE:\Main\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include
+-IE:\Main\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include-fixed
+-IE:\Main\mingw-w64\mingw64\x86_64-w64-mingw32\include
+-IE:\GitHub\C-Logic-And-Patterns\Udemy-Lectures\first_workspace\Workspace1\Project1
+-std=c++17
+-target
+x86_64-pc-windows-gnu
